@@ -1,0 +1,9 @@
+node main() {
+    name = input("Enter your name: ")
+
+    greet :: string
+    greet = `Please greet ${name} in Hindi.`
+
+    print(greet)
+    return greet
+}

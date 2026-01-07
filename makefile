@@ -1,2 +1,2 @@
 all:
-	pnpm run build && pnpm run start --help
+	pnpm run build && pnpm run start run test.agency
