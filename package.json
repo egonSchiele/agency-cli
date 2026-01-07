@@ -8,6 +8,9 @@
     "start": "node dist/index.js",
     "ncc": "ncc build index.ts -o dist"
   },
+  "bin": {
+    "agency": "./agency"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
